@@ -77,13 +77,13 @@ Fetches real-time weather data using public API.
 ---
 
 ## 📈 GitHub Stats
-![Muhammad Irfan GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadirfan-fsd&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadirfan-fsd&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadirfan-fsd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadirfan-fsd&layout=compact&theme=radical)
 
 ---
 
 ## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/muhammadirfan-fsd/count.svg)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=muhammadirfan-fsd&label=visitors&labelColor=%235c5c5c&countColor=%23263759&style=flat)
 
 ---
 
