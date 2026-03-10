@@ -80,9 +80,13 @@ Fetches real-time weather data using public API.
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadirfan-fsd&theme=radical)](https://github.com/muhammadirfan-fsd)
 
+---
+
 ## 💻 Top Languages
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=muhammadirfan-fsd&theme=radical)](https://github.com/muhammadirfan-fsd)
+
+---
 
 ## 👀 Visitor Count
 
