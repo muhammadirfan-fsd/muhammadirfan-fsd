@@ -82,6 +82,11 @@ Fetches real-time weather data using public API.
 
 ---
 
+## 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/muhammadirfan-fsd/count.svg)
+
+---
+
 ## 📫 Contact Me
 📧 Email: muhammadirfan.devx@gmail.com  
 📱 Phone: +923000792298  
