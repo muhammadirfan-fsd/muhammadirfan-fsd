@@ -86,6 +86,8 @@ Fetches real-time weather data using public API.
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=muhammadirfan-fsd&label=visitors&labelColor=%235c5c5c&countColor=%23263759&style=flat)
 
 ---
+## GitHub Streak Stats 
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadirfan-fsd&theme=radical)
 
 ## 📫 Contact Me
 📧 Email: muhammadirfan.devx@gmail.com  
