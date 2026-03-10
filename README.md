@@ -78,11 +78,11 @@ Fetches real-time weather data using public API.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadirfan-fsd&show_icons=true&theme=radical&count_private=true)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadirfan-fsd&theme=radical)](https://github.com/muhammadirfan-fsd)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadirfan-fsd&layout=compact&theme=radical)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=muhammadirfan-fsd&theme=radical)](https://github.com/muhammadirfan-fsd)
 
 ## 👀 Visitor Count
 
